@@ -1,0 +1,208 @@
+@media screen and (max-width:1200px) {
+
+    /* Nav Bar  */
+
+    .logo img {
+        height: 40px;
+        margin-top: 30px;
+        margin-left: 70px;
+    }
+
+    .nav-list {
+        gap: 40px;
+    }
+    .nav-list li{
+        font-size: 20px;
+    }
+
+    .nav-list li img  {
+        height: 10px;
+    }
+
+  /* Hero Section  */
+
+
+  .hero-section {
+    margin-left: 150px;
+  }
+
+  .hero-left  img {
+    width: 400px;
+  }
+
+  .hero-right  {
+  margin-top: 40px;
+  }
+
+  .hero-right  h4  {
+    font-size: 22px;
+  }
+
+  .hero-right  h1 {
+    font-size: 60px;
+  }
+
+  .hero-right p {
+    font-size: 15px;
+  }
+
+  .hero-right button  {
+    padding: 10px 20px;
+    font-size: 15px;
+  }
+
+/* Section-1  */
+
+.cards {
+    gap: 10px;
+}
+
+.card {
+    height: 320px;
+    width: 300px;
+}
+
+.card img {
+    width: 40px;
+    margin-left: 30px;
+    margin-top: 40px;
+}
+
+.card h4 {
+    margin-left: 30px;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.card p  {
+    width: 250px;
+    font-size: 15px;
+    margin-left: 30px;
+}
+
+.card a  {
+    margin-left: 30px;
+    font-size: 15px;
+}
+
+.analytics {
+    gap: 15px;
+    margin-top: 50px;
+}
+
+.a-left h1 {
+    font-size: 70px;
+}
+
+.a-left h4 {
+    font-size: 30px;
+}
+
+.a-right  {
+    gap: 10px;
+}
+
+.a-card  {
+    padding: 15px;
+    width: 250px;
+}
+
+.a-card h4 {
+    font-size: 30px;
+}
+
+.a-card p {
+    font-size: 20px;
+}
+
+/* Section-2  */ 
+
+.section-2  {
+    margin-top: 80px;
+}
+
+.sec-2-head h1 {
+    font-size: 35px;
+}
+
+.sec-2-head p  {
+    margin-top: 10px;
+    font-size: 15px;
+}
+
+.sec-2-head  button {
+    font-size: 15px;
+    padding: 9px 20px;
+}
+
+.sec-2-cards {
+    gap: 40px;
+align-items: center;
+margin-left: 200px;
+}
+
+sec-2-card {
+    width: 100px;
+}
+.sec-2-cards img {
+    width: 320px;
+    padding: 40px 15px;
+}
+
+.sec-2-cards h4 {
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+.sec-2-cards a  {
+    font-size: 15px;
+    margin-top: 20px;
+}
+
+/* Section-3  */
+
+.section-3 {
+    margin-left: 170px;
+    margin-right: 210px;
+    margin-top: 90px;
+    padding: 40px 20px;
+    width: 700px;
+    gap: 100px;
+}
+
+.s-3-left h1 {
+    font-size: 40px;
+    width: 400px;
+}
+
+
+.s-3-left p {
+    width: 400px;
+    margin-top: 12px;
+}
+
+.section-3 button  {
+    font-size: 15px;
+    padding: 9px 23px;
+}
+
+
+/* Footer  */  
+
+footer div {
+    gap: 20px;
+    margin-top: 70px;
+    font-size: 20px;
+}
+
+.socialmedia img  {
+    height: 40px;
+    margin-left: -700px;
+}
+
+
+
+
+
+}
+
